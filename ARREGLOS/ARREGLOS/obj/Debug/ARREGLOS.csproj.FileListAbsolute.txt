@@ -1,0 +1,10 @@
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\bin\Debug\ARREGLOS.exe.config
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\bin\Debug\ARREGLOS.exe
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\bin\Debug\ARREGLOS.pdb
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.csprojAssemblyReference.cache
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.Form1.resources
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.Properties.Resources.resources
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.csproj.GenerateResource.cache
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.csproj.CoreCompileInputs.cache
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.exe
+C:\Users\13237\OneDrive\Desktop\ARREGLOS\ARREGLOS\obj\Debug\ARREGLOS.pdb
